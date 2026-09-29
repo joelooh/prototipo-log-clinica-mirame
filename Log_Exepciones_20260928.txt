@@ -1,0 +1,8 @@
+[2026-09-28 21:31:16.932] | NIVEL: INFO | CODIGO: INIT-001 | ERROR: Aplicación iniciada - Prototipo Clínica Oftalmológica Mírame.
+[2026-09-28 21:31:46.187] | NIVEL: ERROR | CODIGO: e8e80258-ee32-430a-b2ca-c6a2d5d3f81a | ERROR: ValueError: El usuario ingresó un nombre de paciente vacío.
+[2026-09-28 21:32:23.838] | NIVEL: ERROR | CODIGO: 7b9717d5-e99b-46f7-bfcd-814c0b8052dd | ERROR: ValueError: invalid literal for int() with base 10: 'veinticinco'
+[2026-09-28 21:32:49.785] | NIVEL: ERROR | CODIGO: a4f8544d-50fb-44d3-95d6-dd4ef132870e | ERROR: ZeroDivisionError: division by zero
+[2026-09-28 21:33:10.817] | NIVEL: INFO | CODIGO: b2475081 | ERROR: Paciente y presupuesto registrados correctamente.
+[2026-09-28 21:33:37.017] | NIVEL: ERROR | CODIGO: fd6a4a79-67f5-4e29-bb6d-712e5338c9cb | ERROR: ZeroDivisionError: division by zero (Módulo de Presupuesto)
+[2026-09-28 21:33:37.017] | NIVEL: ERROR | CODIGO: 0e7d701c-664f-40c3-9d2d-4cf5079679c1 | ERROR: IndexError: list index out of range (Módulo de Fichas Clínicas)
+[2026-09-28 21:33:56.951] | NIVEL: INFO | CODIGO: EXIT-001 | ERROR: Aplicación finalizada correctamente.

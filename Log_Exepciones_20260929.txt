@@ -1,0 +1,1 @@
+[2026-09-29 10:15:42.512] | NIVEL: ERROR | CODIGO: 8d3827dc-227b-41c0-bc05-dc46d9793764 | ERROR: ValueError: invalid literal for int() with base 10: 'id_cita_invalido' (Conversión de ID en Base de Datos)
